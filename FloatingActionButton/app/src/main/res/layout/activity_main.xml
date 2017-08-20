@@ -15,4 +15,6 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <include layout="@layout/floating_action_buttom_menu" />
+
 </android.support.constraint.ConstraintLayout>
